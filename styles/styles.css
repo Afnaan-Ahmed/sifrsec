@@ -51,7 +51,8 @@ nav {
   align-items: center; 
   justify-content: center;
   text-align: center;
-  padding: 2rem;
+  padding: 4rem;
+  padding-bottom: 6rem;
   overflow: hidden;
 }
 .hero-badge {
